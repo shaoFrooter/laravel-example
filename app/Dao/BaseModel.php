@@ -2,6 +2,7 @@
 /**
  * Created by shaofeng
  * Date: 2020/12/11 14:16
+ * 数据库操作统一封装
  */
 
 namespace App\Dao;

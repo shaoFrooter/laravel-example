@@ -52,6 +52,7 @@ class Handler extends ExceptionHandler
      */
     public function render($request, Throwable $exception)
     {
+        //异常统一返回处理
         if($exception instanceof ExampleException){
             echo '123';
         }

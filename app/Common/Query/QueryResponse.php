@@ -4,6 +4,7 @@
  * User: Shaof
  * Date: 2020/12/15
  * Time: 17:19
+ * 分页查询响应
  */
 
 namespace App\Common\Query;

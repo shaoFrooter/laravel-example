@@ -2,6 +2,7 @@
 /**
  * Created by shaofeng
  * Date: 2020/12/11 15:15
+ * 常用工具类
  */
 
 namespace App\Common\Util;
